@@ -1,0 +1,43 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_color",
+      "value": "#cfcfcf"
+    },
+    {
+      "name": "text_secondary_color",
+      "value": "#7b7b7b"
+    },
+    {
+      "name": "text_placeholder_color",
+      "value": "#626262"
+    },
+
+    {
+      "name": "text_tag_color",
+      "value": "#e0d8d2"
+    },
+
+
+    {
+      "name": "input_background",
+      "value": "#1c1c1c"
+    },
+    {
+      "name": "background",
+      "value": "#0e0e0e"
+    },
+    {
+      "name": "start_background",
+      "value": "#2a1b14"
+    },
+    {
+      "name": "end_background",
+      "value": "#102421"
+    }
+  ]
+}
